@@ -22,4 +22,4 @@ cmake.
 make
 ```
 3. write source code, refer to **sample.cpp, sample.h, test.cpp**
-4. build code, refer to **makefile**
+4. create build folder and then build code, refer to **makefile**
